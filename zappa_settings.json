@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "main.app.app",
+        "aws_region": "ap-northeast-1",
+        "profile_name": "default",
+        "project_name": "clean-todo-service",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-todo-service"
+    }
+}
